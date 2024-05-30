@@ -2,6 +2,8 @@
 #include <string.h>
 using namespace std;
 
+
+
 class Buku {
     private:
     char judul[20];
